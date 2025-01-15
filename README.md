@@ -18,5 +18,6 @@ The script runs in the terminal indefinitely, generating random files, editing t
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/24-7-terminal-activity.git
-   cd 24-7-terminal-activity
+   git clone https://github.com/VGWARDEN/24-7.git
+   cd 24-7
+   python 24-7.py
