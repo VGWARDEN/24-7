@@ -18,7 +18,7 @@ def generate_random_string(length=100):
     return ''.join(random.choices(string.ascii_letters + string.digits, k=length))
 
 def create_edit_delete_file():
-    folder_name = "24-7"
+    folder_name = "DONT DELETE THIS FOLDER"
     os.makedirs(folder_name, exist_ok=True)
 
     while True:
